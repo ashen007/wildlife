@@ -70,6 +70,8 @@ body {
     background-color: #fff;
     background-image: linear-gradient(#DFFBF9,#DFE1FB);
 
+    /*background-color: #C3FF82;*/
+
 }
 a {
     color: #ffffff !important;
@@ -77,8 +79,9 @@ a {
     background-color: transparent;
 }
 a:hover {
-    color: #0056b3;
+    color: #B1D589;
     text-decoration: underline;
+	font-size:20px;
 }
 figure {
     margin: 0 0 1rem;
@@ -610,7 +613,7 @@ h6, .h6 {
     margin-left: 0;
 }
 .wn_logoImg {
-    width: 99px;
+    width: 120px;
     height: 33px;
 }
 .wn_links {
@@ -837,7 +840,7 @@ section.wn_content-section {
 }
 
 .right-side-image {
-    width: calc(50vw - 15px);
+    width: calc(60vw - 15px);
     display: flex;
     flex-wrap: wrap;
     position: relative;
