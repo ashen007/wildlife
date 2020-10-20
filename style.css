@@ -67,7 +67,11 @@ body {
     line-height: 1.5;
     color: #212529;
     text-align: left;
-    background-color: #C3FF82;
+    background-color: #fff;
+    background-image: linear-gradient(#DFFBF9,#DFE1FB);
+
+    /*background-color: #C3FF82;*/
+
 }
 a {
     color: #ffffff !important;
